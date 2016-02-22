@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\R206\\AndroidStudioProjects\\FlexibleUI\\app\\build\\intermediates\\res\\merged\\debug\\menu\\another.xml",
+        "source": "C:\\Users\\R206\\AndroidStudioProjects\\FlexibleUI\\app\\src\\main\\res\\menu\\another.xml"
+    },
+    {
+        "merged": "C:\\Users\\R206\\AndroidStudioProjects\\FlexibleUI\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\R206\\AndroidStudioProjects\\FlexibleUI\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\R206\\AndroidStudioProjects\\FlexibleUI\\app\\build\\intermediates\\res\\merged\\debug\\menu\\frag_b.xml",
+        "source": "C:\\Users\\R206\\AndroidStudioProjects\\FlexibleUI\\app\\src\\main\\res\\menu\\frag_b.xml"
+    }
+]
